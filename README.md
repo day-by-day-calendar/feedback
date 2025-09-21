@@ -4,4 +4,4 @@ Dear users, thank you for using the Day by Day Calendar! The application is avai
 
 FAQ and app instructions can be found on [Wiki](https://github.com/day-by-day-calendar/feedback/wiki).
 
-Feel free to report a bug or request a feature on the [Issues](https://github.com/day-by-day-calendar/feedback/issues) page.
+Feel free to report a bug or request a feature on the [Issues](https://github.com/day-by-day-calendar/feedback/issues) page or send an email to daybyday.feedback@gmail.com.
