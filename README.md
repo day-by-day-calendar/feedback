@@ -1,3 +1,7 @@
+# 🚨 App Discontinued 🚨
+
+This app is no longer supported and will not receive further updates. I appreciate all your support over the years. Thank you for using Day by Day! 
+
 # Feedback for Day by Day Calendar
 
 Dear users, thank you for using the Day by Day Calendar! The application is available on [Google Play](https://play.google.com/store/apps/details?id=ru.infteh.organizer.trial) and [GitHub](https://github.com/day-by-day-calendar/feedback/releases).
